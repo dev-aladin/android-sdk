@@ -1,0 +1,1 @@
+window.aladin = require('aladinjs')

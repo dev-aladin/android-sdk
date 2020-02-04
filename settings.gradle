@@ -1,0 +1,2 @@
+include ':app', ':aladin-sdk'
+rootProject.name='My Application'

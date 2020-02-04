@@ -1,0 +1,17 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.aladin.android.sdk.test",
+    "sha256_cert_fingerprints":
+    ["67:CA:EE:D5:54:01:20:4B:44:88:6B:B6:34:62:6C:FA:1B:29:56:C8:9D:88:7D:E7:1F:96:C9:31:7F:51:9F:15"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aladin",
+    "sha256_cert_fingerprints":
+    ["67:CA:EE:D5:54:01:20:4B:44:88:6B:B6:34:62:6C:FA:1B:29:56:C8:9D:88:7D:E7:1F:96:C9:31:7F:51:9F:15"]
+  }
+}]

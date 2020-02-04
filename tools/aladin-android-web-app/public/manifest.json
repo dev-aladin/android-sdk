@@ -1,0 +1,12 @@
+{
+  "name": "Hello, Aladin",
+  "start_url": "localhost:8777",
+  "description": "A simple demo of Aladin Auth",
+  "icons": [
+    {
+      "src": "http://13.58.89.243/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

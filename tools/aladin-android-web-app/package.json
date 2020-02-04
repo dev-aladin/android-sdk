@@ -1,0 +1,28 @@
+{
+  "name": "hello-aladin",
+  "version": "0.0.0",
+  "description": "A simple Aladin app",
+  "main": "index.js",
+  "scripts": {
+    "browserify": "browserify requires.js -o public/bundle.js",
+    "start": "npm run browserify; node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "express": "^4.15.2",
+    "opn": "^4.0.2"
+  },
+  "dependencies": {
+    "aladinjs": "^1.0.3"
+  }
+}
